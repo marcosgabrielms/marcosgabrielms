@@ -6,25 +6,27 @@
 
 ## Hi!👋 I'm Marcos Gabriel! 
 
-<h3> GitHub Stats </h3><br>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
+## 🚀 GitHub Stats 
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
 </a>
-
-<a align="center" href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320" />
-</a><br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320" />
+</a>
+</p>p>
 
 ##
 
-<h3> My languages </h3>
+## 💻 My languages
 <div style="display: inline_block"><br>
   <img align="center" alt="marcos-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="marcos-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img align="center" alt="marcos-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original.svg"/>
+  <img align="center" alt="marcos-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 </div>
 
-<h3> Studying at the moment </h3><br>
+## 📘 Studying at the moment 
+<div style="display: inlice_block><br>
   <img align="center" alt="marcos-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="marcos-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" alt="marcos-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
