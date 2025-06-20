@@ -10,25 +10,26 @@
 
 ---
 
-## 🚀 GitHub Stats e Vídeo
+## 🚀 GitHub Stats 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 2; min-width: 300px; text-align: left; margin-right: 20px;">
-    <p>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats"/>
-      </a>
-      <br>
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
-      </a>
-    </p>
-  </div>
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <video src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/mariogif.mp4" controls width="auto" height="180">
-      </video>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p align="left">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats"/>
+        </a>
+        <br>
+        <a href="https://github.com/anuraghazra/convoychat">
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/devariogif.gif" alt="devariogif" width="70%" height="auto">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,7 +43,7 @@
 
 ---
 
-## 📘 Studying at the moment
+<h2> 📘 Studying at the moment </h2>
 
 <div style="display: inline-block;"><br>
   <img align="center" alt="marcos-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" loading="lazy"/>
@@ -52,7 +53,7 @@
 
 ---
 
-### My Contacts <br>
+<h3> My Contacts </h3><br>
 
 <div>
   <a href="mailto:marcosg64bits@gmail.com">
