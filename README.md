@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=98727416829618797" height="445" width="345" aling="right" frameborder="0" scrolling="no" ></iframe>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=98727416829618797" height="336" width="236" frameborder="0" scrolling="no" align="right" >></img>
 </div>
 ## Hi!👋 I'm Marcos Gabriel! 
 
