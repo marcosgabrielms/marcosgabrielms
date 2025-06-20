@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <img src="https://x.com/i/status/1935352956821586418" width="400px" align="right" />
+  <img src="https://x.com/i/status/1935352956821586418.gif" width="400px" align="right" />
 </div>
 ## Hi!👋 I'm Marcos Gabriel! 
 
