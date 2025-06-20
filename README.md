@@ -10,16 +10,25 @@
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats e Vídeo
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
-  </a>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 2; min-width: 300px; text-align: left; margin-right: 20px;">
+    <p>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats"/>
+      </a>
+      <br>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <video src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/mariogif.mp4" controls width="auto" height="180">
+      </video>
+  </div>
+</div>
 
 ---
 
@@ -54,9 +63,9 @@
 ---
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabielms/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabielms/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabielms/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgabielms/marcosgabielms/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosgabielms/marcosgabielms/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br><br>
