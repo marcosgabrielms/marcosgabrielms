@@ -1,3 +1,4 @@
+<!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B97FA&center=true&vCenter=true&random=false&width=524&lines=Hi+there+%F0%9F%91%8B+I'm+Marcos+Gabriel!+" alt="Typing SVG">
@@ -16,26 +17,29 @@
 
 <table>
   <tr>
+    <!-- Coluna da esquerda: Linguagens -->
     <td valign="top" width="60%">
-      <h3>💻 Minhas Linguagens</h3>
-      <div style="display: inline-block;">
-        <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-        <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-        <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <h3 style="margin-bottom: 10px;">💻 Minhas Linguagens</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+       <img alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       </div>
-      <br><br>
-      <h3>📘 Estudando no Momento</h3>
-      <div style="display: inline-block;">
-        <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-        <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-        <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-        <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+  <h3 style="margin: 30px 0 10px;">📘 Estudando no Momento</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+       <img alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        <img alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       </div>
     </td>
-    <td valign="top" width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/devariogif.gif" alt="devariogif" width="80%" height="auto">
-    </td>
+
+  <!-- Coluna da direita: GIF -->
+  <td valign="top" width="40%" align="center">
+    <img src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/devariogif.gif" alt="Animação Dev" width="80%" height="auto">
+  </td>
   </tr>
 </table>
 
@@ -71,6 +75,7 @@
 
 ---
 
+<!-- GitHub Snake Contribution -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake-dark.svg">
