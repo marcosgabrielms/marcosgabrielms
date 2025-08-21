@@ -1,14 +1,13 @@
-<div align="center">
+# Olá Humano! Me chamo Marcos Gabriel 
 
-### ✍️ Sobre Mim
-
-<p>
-  Sou um desenvolvedor focado e curioso, atualmente cursando <strong>Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí (IFPI)</strong>. Minha paixão é criar soluções eficientes e robustas, com um interesse especial no desenvolvimento back-end e em algoritmos de alta performance.
-</p>
-<p>
-  Recentemente, expandi meus estudos para <strong>Sistemas Embarcados e IoT</strong>, buscando unir software e hardware, além de aprimorar minhas habilidades em banco de dados com <strong>SQL</strong>. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos.
-</p>
 ---
+
+* Sou estudante do **Instituto Federal do Piauí (IFPI)** no curso superior de Análise e Desenvolvimento de Sistemas.
+* Minha paixão é criar soluções eficientes e robustas, com um interesse especial no desenvolvimento back-end e em algoritmos de alta performance.
+* Atualmente, estou expandindo meus estudos para **Sistemas Embarcados e IoT**, buscando unir software e hardware, além de aprimorar minhas habilidades em banco de dados com **SQL**.
+
+---
+<div align="center">
 
 <table>
   <tr>
@@ -38,6 +37,7 @@
 </td>
   </tr>
 </table>
+
 ---
 
 <picture>
