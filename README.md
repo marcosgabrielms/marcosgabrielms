@@ -1,4 +1,4 @@
-# Olá Humano! Me chamo Marcos Gabriel 
+# Olá Humano! Me chamo Marcos Gabriel
 
 ---
 
@@ -7,11 +7,12 @@
 * Atualmente, estou expandindo meus estudos para **Sistemas Embarcados e IoT**, buscando unir software e hardware, além de aprimorar minhas habilidades em banco de dados com **SQL**.
 
 ---
+
 <div align="center">
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="60%">
+    <td style="vertical-align: top; width: 60%; padding-right: 20px;">
       
   <h3>🛠️ Habilidades e Tecnologias</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
@@ -28,12 +29,13 @@
   </div>
 
   <h3>🚀 Estatísticas do GitHub</h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320&hide_border=true" alt="Top Languages"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320&hide_border=true" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
+      
 </td>
-<td valign="top" width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/devariogif.gif" alt="Animação Dev" width="90%" height="auto">
+<td style="vertical-align: top; width: 40%; text-align: center;">
+  <img src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/devariogif.gif" alt="Animação Dev" width="90%">
 </td>
   </tr>
 </table>
@@ -42,8 +44,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
