@@ -29,14 +29,9 @@
   </div>
 
   <h3>🚀 Estatísticas do GitHub</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats do Marcos"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabrielms&theme=merko&layout=compact&hide_border=true" alt="Top Linguagens do Marcos"/>
-  </a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320&hide_border=true" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
       
 </td>
 <td style="vertical-align: top; width: 40%; text-align: center;">
