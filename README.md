@@ -1,10 +1,10 @@
-# Olá Humano! Me chamo Marcos Gabriel
+# 👋 Olá, Humano! Me chamo Marcos Gabriel
 
 ---
 
-* Sou estudante do **Instituto Federal do Piauí (IFPI)** no curso superior de Análise e Desenvolvimento de Sistemas.
-* Minha paixão é criar soluções eficientes e robustas, com um interesse especial no desenvolvimento back-end e em algoritmos de alta performance.
-* Atualmente, estou expandindo meus estudos para **Sistemas Embarcados e IoT**, buscando unir software e hardware, além de aprimorar minhas habilidades em banco de dados com **SQL**.
+* Sou estudante do **Instituto Federal do Piauí (IFPI)**, no curso superior de **Análise e Desenvolvimento de Sistemas (ADS)**.
+* Sou apaixonado por criar soluções eficientes e robustas, com um interesse especial em desenvolvimento **back-end** e algoritmos de alta performance.
+* Atualmente, estou expandindo meus estudos para **Sistemas Embarcados e IoT**, buscando unir software e hardware, além de aprimorar minhas habilidades em bancos de dados relacionais utilizando **SQL**.
 
 ---
 
@@ -28,10 +28,15 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </div>
 
+<div>
   <h3>🚀 Estatísticas do GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&card_width=320&hide_border=true" alt="Top Languages"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosgabrielms&theme=merko&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
+  </a>
+</div>
       
 </td>
 <td style="vertical-align: top; width: 40%; text-align: center;">
@@ -42,10 +47,8 @@
 
 ---
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
