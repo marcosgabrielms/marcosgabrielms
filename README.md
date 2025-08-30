@@ -50,8 +50,8 @@
     <td style="vertical-align: top; width: 55%;">
       <h2 align="center">🚀 Estatísticas do GitHub</h2>
       <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabrielms&layout=compact&langs_count=8&theme=merko" alt="Linguagens Mais Usadas"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&theme=merko&count_private=true" alt="Estatísticas do GitHub"/>
       </div>
     </td>
   </tr>
