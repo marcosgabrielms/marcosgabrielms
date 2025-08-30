@@ -1,46 +1,58 @@
-<h1 align="center">👋 Olá, Humano! Me chamo Marcos Gabriel</h1>
-
----
-
-* Sou estudante do **Instituto Federal do Piauí (IFPI)**, no curso superior de **Análise e Desenvolvimento de Sistemas (ADS)**.
-* Sou apaixonado por criar soluções eficientes e robustas, com um interesse especial em desenvolvimento **back-end** e algoritmos de alta performance.
-* Atualmente, estou expandindo meus estudos para **Sistemas Embarcados e IoT**, buscando unir software e hardware, além de aprimorar minhas habilidades em bancos de dados relacionais utilizando **SQL**.
-
----
-
-<h2 align="center">🛠️ Habilidades e Tecnologias</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sistemas_Embarcados-5A647E?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-212121?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-<h2 align="center">🚀 Estatísticas do GitHub</h2>
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <!-- Linguagens mais usadas -->
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabrielms&layout=compact&langs_count=8&theme=merko&hide_border=true" />
-      <br/>
-      <!-- Estatísticas principais -->
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&theme=merko&hide_border=true" />
-      <br/>
-      <!-- Streak -->
-      <img height="160em" src="https://streak-stats.demolab.com?user=marcosgabrielms&theme=merko&hide_border=true" />
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr align="left">
+    <td style="vertical-align: top; width: 65%; padding-right: 20px;">
+      <h1 align="left">👋 Olá, Humano! Me chamo Marcos Gabriel</h1>
+      <p align="justify">
+        • Sou estudante do <strong>Instituto Federal do Piauí (IFPI)</strong>, no curso superior de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.<br>
+        • Sou apaixonado por criar soluções eficientes e robustas, com um interesse especial em desenvolvimento <strong>back-end</strong> e algoritmos de alta performance.<br>
+        • Atualmente, estou expandindo meus estudos para <strong>Sistemas Embarcados e IoT</strong>, buscando unir software e hardware, além de aprimorar minhas habilidades em bancos de dados relacionais utilizando <strong>SQL</strong>.
+      </p>
     </td>
-    <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/devariogif.gif" alt="Dev animado" width="300px" />
+    <td style="vertical-align: top; width: 35%;">
+      <img src="https://raw.githubusercontent.com/marcosgabrielms/marcosgabrielms/main/assets/devariogif.gif" alt="Dev animado" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr align="left">
+    <td style="vertical-align: top; width: 45%; padding-right: 15px;">
+      <h2 align="center">🛠️ Habilidades e Tecnologias</h2>
+      <table align="center">
+        <tr>
+          <td align="center" width="120">
+            <strong>Linguagens</strong>
+          </td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=python,c,cpp,cs" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="120">
+            <strong>Web & DB</strong>
+          </td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=js,html,css,mysql" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="120">
+            <strong>Ferramentas e Especialidades</strong>
+          </td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=git,raspberrypi" />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="vertical-align: top; width: 55%;">
+      <h2 align="center">🚀 Estatísticas do GitHub</h2>
+      <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=marcosgabrielms&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabrielms&layout=compact&langs_count=8&theme=merko" alt="Linguagens Mais Usadas"/>
+      </div>
     </td>
   </tr>
 </table>
